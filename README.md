@@ -6,16 +6,8 @@
 
  - typescript
  - react & next
- - vue & nuxt
  - nodejs
- - git
 
-## platforms
-
-- shopware
-- jtl
-- pickware
-- tb.one
   
 ## more about me:
 
@@ -24,7 +16,6 @@ const alhen002 = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [react&next, vue&nuxt, node, git],
-  platforms: [shopware, jtl, pickware, tb.one]
 }
 ```
 
